@@ -1,0 +1,12 @@
+welcome to nus cap calculator
+this will help you
+first, press start
+select whether u want to calculate cumulative score or not
+if select cumulative, enter cap and mcs
+else ignore those fields
+then add modules and their grades and mcs
+then press calculate
+it will calculate
+:)
+please rate 5-star to help us serve you better
+thanks you
